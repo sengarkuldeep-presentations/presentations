@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap");
+
+body {
+  font-family: "Cutive Mono", monospace;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Major Mono Display", monospace;
+  font-weight: normal;
+}
+
+.inverse {
+  background-color: #222222;
+  color: white;
+}
+
+.footnote {
+  position: absolute;
+  bottom: 3em;
+}
